@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdk 33
-    buildToolsVersion '29.0.3'
 
     defaultConfig {
         applicationId "com.scanner.demo"
